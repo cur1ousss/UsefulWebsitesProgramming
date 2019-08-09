@@ -2,7 +2,7 @@
 
 Websites 
 
-##Competitive Programming
+## Competitive Programming
 topcoder
 hackerrank
 hackerearth
@@ -14,7 +14,7 @@ spoj
 codewars
 
 
-##General Programming
+## General Programming
 official docs of langauges and technologies
 books
 geeksforgeeks
@@ -37,7 +37,7 @@ microsoft docs for its technnologies
 
 
 
-##c++
+## c++
 cppreference.com
 https://devdocs.io/cpp/
 cplusplus.com
