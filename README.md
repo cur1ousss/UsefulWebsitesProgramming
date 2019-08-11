@@ -32,7 +32,8 @@ udacity
 stanford youtube  
 udemy pirated  
 interviewbit  
-microsoft docs for its technnologies  
+microsoft docs for its technnologies   
+https://learnxinyminutes.com
 
 
 
