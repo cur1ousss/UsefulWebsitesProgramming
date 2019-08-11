@@ -33,7 +33,8 @@ stanford youtube
 udemy pirated  
 interviewbit  
 microsoft docs for its technnologies   
-https://learnxinyminutes.com
+https://learnxinyminutes.com  
+https://www.hackerearth.com/practice/notes/trending/  
 
 
 
