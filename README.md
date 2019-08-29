@@ -45,3 +45,12 @@ https://devdocs.io/cpp/
 cplusplus.com  
 microsoft docs for c++  
 
+
+## StealUdemyCourses    
+torrent  
+kikmic.ca  
+udemyoff.com  
+freetutorialsus.com  
+realdiscount.com  
+smartybro.com   
+
